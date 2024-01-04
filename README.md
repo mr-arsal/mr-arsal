@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **DevOps**
 
+- 💬 Ask me about MERN , MEVN
+
 - 📫 How to reach me **arslandev7@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
