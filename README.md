@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arslan Nadeem</h1>
-<h3 align="center">A passionate Web Developer from Pakistan</h3>
+<h3 align="center">A Passionate Web Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-arsal&label=Profile%20views&color=0e75b6&style=flat" alt="mr-arsal" /> </p>
@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-arsal&show_icons=true&locale=en&layout=compact" alt="mr-arsal" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-arsal&" alt="mr-arsal" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-arsal" alt="mr-arsal" /></a> </p>
