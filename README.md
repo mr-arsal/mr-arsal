@@ -6,9 +6,9 @@
 
 
 
-- 🌱 I’m currently learning **DevOps**
-
 - 💬 Ask me about MERN , MEVN
+
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **arslandev7@gmail.com**
 
